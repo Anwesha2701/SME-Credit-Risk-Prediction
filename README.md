@@ -1,5 +1,5 @@
 # SME Credit Risk Prediction
-
+🚀 **Live Demo:** https://sme-credit-risk-prediction.streamlit.app/
 This project is an **SME credit risk assessment and default prediction application** built using Python, Logistic Regression, and Streamlit.
 
 The idea behind the project is simple: use a borrower's business, financial and credit information to estimate their **Probability of Default (PD)** and understand their overall credit risk.
